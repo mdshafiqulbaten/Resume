@@ -64,7 +64,7 @@ Firewall Simulator (C++): Simulated IP rule enforcement system
 Backup Tool (Python): Zipped folder backups with timestamps
 
 
-**Certifications****
+**Certifications**
 
 CompTIA Linux+ – Passed Jan 2025
 

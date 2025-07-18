@@ -6,6 +6,7 @@ GitHub: github.com/mdshafiqulbaten
 Location: 17317 89th Avenue, Apt-2C, Jamaica, NY 11432
 
 **Education**
+
 **John Jay College of Criminal Justice (CUNY) – New York, NY**
 B.S. in Computer Science and Information Security
 Expected Graduation: Spring 2026
@@ -21,6 +22,7 @@ Research: Security Culture in the Workplace
 Coursework: Network Security, Cisco Routing, Linux Admin
 
 **Research Experience**
+
 Deepfake Detection using Multimodal Neurosymbolic Frameworks
 Under Prof. Fatma Najar – John Jay College (2025–Present)
 Detecting deepfakes using video, audio, gaze, and emotional inconsistency
@@ -38,6 +40,7 @@ Analyzed behavioral and organizational security practices beyond compliance
 Delivered policy recommendations and presented at the BCC research showcase
 
 **Technical Skills**
+
 Languages: Python, C++, Bash, HTML/CSS, JavaScript (beginner), SQL
 Cybersecurity Tools: Wireshark, Scapy, Netmiko, UFW, Fail2Ban, nmap
 Dev Tools: Git, GitHub, VSCode, Jupyter, Linux CLI, Docker (basic)
@@ -45,6 +48,7 @@ Libraries/Frameworks: PyTorch, Flask, Hugging Face, OpenCV, MediaPipe
 Concepts: OOP, Data Structures, REST APIs, OS Hardening, Ethical Hacking Basics
 
 **Projects**
+
 Network Scanner (Python): ARP scan using Scapy with subnet range input
 
 Command-Line Password Manager (C++): Map-based local credential store
@@ -61,6 +65,7 @@ Backup Tool (Python): Zipped folder backups with timestamps
 
 
 **Certifications****
+
 CompTIA Linux+ – Passed Jan 2025
 CompTIA A+ (Core 1) – Passed 2024
 Preparing for Security+ – Spring 2025
@@ -69,11 +74,13 @@ Technical Interview Prep
 Web Development
 
 **Awards & Achievements**
+
 Carl Polowczyk Memorial Award – BCC, May 2024
 Member, Phi Theta Kappa Honor Society
 2+ Years Peer Tutoring Experience in Math, Chemistry, C++
 
 **Let’s Connect**
+
 GitHub: https://github.com/mdshafiqulbaten
 LinkedIn: https://www.linkedin.com/in/md-shafiqul-baten-sumon-41815531a
 Email: mdshafiqulbaten.sumon@jjay.cuny.edu

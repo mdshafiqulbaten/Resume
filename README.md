@@ -78,6 +78,7 @@ Technical Interview Prep
 
 Web Development
 
+
 **Awards & Achievements**
 
 Carl Polowczyk Memorial Award – BCC, May 2024
@@ -85,6 +86,7 @@ Carl Polowczyk Memorial Award – BCC, May 2024
 Member, Phi Theta Kappa Honor Society
 
 2+ Years Peer Tutoring Experience in Math, Chemistry, C++
+
 
 **Let’s Connect**
 

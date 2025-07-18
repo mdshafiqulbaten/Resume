@@ -23,22 +23,19 @@ Coursework: Network Security, Cisco Routing, Linux Admin
 **Research Experience**
 Deepfake Detection using Multimodal Neurosymbolic Frameworks
 Under Prof. Fatma Najar – John Jay College (2025–Present)
-
 Detecting deepfakes using video, audio, gaze, and emotional inconsistency
 Built models using PyTorch, OpenFace, MediaPipe, rPPG
 Preparing submission for PRISM & CUNY symposium
 
 Offensive Language Detection in Online Text
 Under Prof. Vivek Sharma – John Jay College (2024–2025)
-
 Compared LLMs vs BiGRU/Hate2Vec using OLID dataset
 Focused on model bias, imbalance handling, and explainability
 
 Security Culture in the Workplace
 Under Dr. Mohammad Nizamuddin – Bronx CC (Spring 2024)
-
 Analyzed behavioral and organizational security practices beyond compliance
-Delivered policy recommendations and presented at BCC research showcase
+Delivered policy recommendations and presented at the BCC research showcase
 
 **Technical Skills**
 Languages: Python, C++, Bash, HTML/CSS, JavaScript (beginner), SQL

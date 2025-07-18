@@ -67,20 +67,29 @@ Backup Tool (Python): Zipped folder backups with timestamps
 **Certifications****
 
 CompTIA Linux+ – Passed Jan 2025
+
 CompTIA A+ (Core 1) – Passed 2024
+
 Preparing for Security+ – Spring 2025
+
 CodePath:
+
 Technical Interview Prep
+
 Web Development
 
 **Awards & Achievements**
 
 Carl Polowczyk Memorial Award – BCC, May 2024
+
 Member, Phi Theta Kappa Honor Society
+
 2+ Years Peer Tutoring Experience in Math, Chemistry, C++
 
 **Let’s Connect**
 
 GitHub: https://github.com/mdshafiqulbaten
+
 LinkedIn: https://www.linkedin.com/in/md-shafiqul-baten-sumon-41815531a
+
 Email: mdshafiqulbaten.sumon@jjay.cuny.edu

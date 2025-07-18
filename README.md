@@ -1,8 +1,13 @@
-**Md Shafiqul Baten Sumon 
+**Md Shafiqul Baten Sumon
+
 Email: mdshafiqulbaten.sumon@jjay.cuny.edu
+
 Phone: (516) 233-5765
+
 LinkedIn: linkedin.com/in/md-shafiqul-baten-sumon-41815531a
+
 GitHub: github.com/mdshafiqulbaten
+
 Location: 17317 89th Avenue, Apt-2C, Jamaica, NY 11432**
 
 **Education**
